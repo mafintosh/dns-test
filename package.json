@@ -1,6 +1,6 @@
 {
   "name": "dns-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Network test to see if dns is working",
   "main": "index.js",
   "dependencies": {
