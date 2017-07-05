@@ -1,15 +1,15 @@
 # dns-test
 
-WIP - nothing to see here
+Network test to see if dns is working
 
 ```
-npm install dns-test
+npm install -g dns-test
 ```
 
 ## Usage
 
 ``` js
-var dns-test = require('dns-test')
+dns-test # prints if dns is working
 ```
 
 ## License
