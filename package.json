@@ -1,0 +1,23 @@
+{
+  "name": "dns-test",
+  "version": "0.0.0",
+  "description": "Network test to see if dns is working",
+  "main": "index.js",
+  "dependencies": {
+    "dns-discovery": "^5.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/dns-test.git"
+  },
+  "bin": {
+    "dns-test": "./index.js"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/dns-test/issues"
+  },
+  "homepage": "https://github.com/mafintosh/dns-test"
+}
